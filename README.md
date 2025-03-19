@@ -1,8 +1,9 @@
 # illegalbuilding
-(currently working project)
-this should be the project structure:(vscode)
+the project structure:(vscode)
 project/inside:
-    ├── app.py                   
+
+    ├── app.py  
+    
     ├── dataset/-inside:
             |_old_image,new_image
     ├── static/-inside:
