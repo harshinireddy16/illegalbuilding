@@ -11,5 +11,7 @@ follow the below project structure:(vscode) or try opening illegalbuildingzipfil
     │   │    └── script.js       
     ├── templates/-inside:
        ├── index.html            
-       └── result.html     
+       └── result.html   
+when you run there will be a link displayed clickon the link and upload old_image and new_image 
+       
        
