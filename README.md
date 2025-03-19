@@ -1,5 +1,5 @@
 # illegalbuilding
-the project structure:(vscode)
+follow the below project structure:(vscode) or try opening illegalbuildingzipfile
 project/inside:
 
     ├── app.py  
@@ -13,4 +13,5 @@ project/inside:
     │   │    └── script.js       
     ├── templates/-inside:
        ├── index.html            
-       └── result.html           
+       └── result.html     
+       
