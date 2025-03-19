@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building Compliance Check</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Building Compliance Check</h1>
+        <form action="/check_compliance" method="POST" enctype="multipart/form-data">
+            <label for="old_image">Upload Old Building Image:</label>
+            <input type="file" name="old_image" required><br><br>
+            
+            <label for="new_image">Upload New Building Image:</label>
+            <input type="file" name="new_image" required><br><br>
+            
+            <button type="submit">Check Compliance</button>
+        </form>
+    </div>
+</body>
+</html>
