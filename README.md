@@ -1,9 +1,7 @@
 # illegalbuilding
-follow the below project structure:(vscode) or try opening illegalbuildingzipfile
-project/inside:
+follow the below project structure:(vscode) or try opening illegalbuildingzipfile:
 
-    ├── app.py  
-    
+   project/inside ├── app.py  
     ├── dataset/-inside:
             |_old_image,new_image
     ├── static/-inside:
