@@ -1,15 +1,15 @@
 # illegalbuilding
 (currently working project)
 this should be the project structure:(vscode)
-project/
+project/inside:
     ├── app.py                   
-    ├── dataset/
+    ├── dataset/-inside:
             |_old_image,new_image
-    ├── static/
-    │   ├── css/
+    ├── static/-inside:
+    │   ├── css/--inside:
     │   │    └── style.css        
-    │   ├── js/
+    │   ├── js/-inside:
     │   │    └── script.js       
-    ├── templates/
-    │   ├── index.html            
-    │   └── result.html           
+    ├── templates/-inside:
+       ├── index.html            
+       └── result.html           
